@@ -19,7 +19,7 @@ const fileToGenerativePart = async (file: File) => {
 };
 
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: "AIzaSyDxWT6d8Ern_r5indHEpM9TCJZH_OIAzfw" });
 
 const quizSchema = {
   type: Type.ARRAY,
