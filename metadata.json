@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quiz Generator",
+  "description": "A dynamic quiz application that generates questions on any topic using the Gemini API. Users can enter a subject, and the app will create a multiple-choice quiz, track their score, and provide instant feedback.",
+  "requestFramePermissions": []
+}
